@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonlinearEquationSolving", "NonlinearEquationSolving\NonlinearEquationSolving.csproj", "{7CC98110-D373-4058-93CD-21874AA3C6F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC98110-D373-4058-93CD-21874AA3C6F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC98110-D373-4058-93CD-21874AA3C6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC98110-D373-4058-93CD-21874AA3C6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC98110-D373-4058-93CD-21874AA3C6F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7FF4A2D-2CD4-45E5-809B-9C0C4A84DBCC}
+	EndGlobalSection
+EndGlobal
